@@ -1,4 +1,9 @@
 # Concurrent-Programming-in-Java
+
+## This is second course in [Parallel, Concurrent, and Distributed Programming in 
+Java Specialization by Rice University in Coursera](https://www.coursera.org/specializations/pcdp)
+
+
 An introductory course of  Concurrent Programming in Java by Rice university in Coursera 
  
 Where I've learnt the follwing skills:
