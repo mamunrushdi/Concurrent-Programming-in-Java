@@ -1,11 +1,9 @@
 # Concurrent-Programming-in-Java
 
-## This is second course in [Parallel, Concurrent, and Distributed Programming in 
-Java Specialization by Rice University in Coursera](https://www.coursera.org/specializations/pcdp)
+## _This is the second course in [Parallel, Concurrent, and Distributed Programming in Java Specialization by Rice University in Coursera](https://www.coursera.org/specializations/pcdp)_
 
 
 An introductory course of  Concurrent Programming in Java by Rice university in Coursera 
- 
 Where I've learnt the follwing skills:
 1.	Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
 2. Use of threads and structured/unstructured locks in Java
