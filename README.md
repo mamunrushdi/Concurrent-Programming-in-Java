@@ -2,17 +2,17 @@
 An introductory course of  Concurrent Programming in Java by Rice university in Coursera 
  
 Where I've learnt the follwing skills:
-•	Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
-•	Use of threads and structured/unstructured locks in Java
-•	Atomic variables and isolation
-•	Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent  hashmaps)
-•	Actor model in Java
+1.	Concurrency theory: progress guarantees, deadlock, livelock, starvation, linearizability
+2. Use of threads and structured/unstructured locks in Java
+3.	Atomic variables and isolation
+4.	Optimistic concurrency and concurrent collections in Java (e.g., concurrent queues, concurrent  hashmaps)
+5.	Actor model in Java
 
 This repository contains 4 mini-project with above mentioned technology, where
-1. The First mini project implements __ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework (Demo)__
-2. The Second mini project implements __Analysing Student Statictis Using Java Parallel Stream__
-3. The Thrid mini project implements  __Parallelizing Matrix-Matrix Multiply Using Loop Parallelism__
-4. The Fourth mini project implements __Using Phasers to Optimize Data-Parallel Applications__
+1. The First mini project exhibits __Locking and Synchronization__
+2. The Second mini project exhibits __Global and Object-Based Isolation__
+3. The Thrid mini project exhibits  __Sieve of Eratosthenes Using Actor Parallelism__
+4. The Fourth mini project exhibits __Parallelization of Boruvka's Minimum Spanning Tree Algorithm__
 
 
 
